@@ -1,0 +1,9 @@
+{
+	"name": "tuanpm14-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72a0b41b-c3b4-42d4-bfb8-b7a148b7cfa1",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
